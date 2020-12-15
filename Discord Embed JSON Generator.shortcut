@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WFWorkflowActions</key>
+	<array>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.comment</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFCommentActionText</key>
+				<string>• • • • • • • 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗘𝗺𝗯𝗲𝗱 𝗝𝗦𝗢𝗡 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 • • • • • • •
+          Made by MrOrange9_JCT on RoutineHub
+
+RoutineHub/Download Link: https://routinehub.co/shortcut/6982/
+
+</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.dictionary</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+				<key>WFItems</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>WFDictionaryFieldValueItems</key>
+						<array>
+							<dict>
+								<key>WFItemType</key>
+								<integer>0</integer>
+								<key>WFKey</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>attachmentsByRange</key>
+										<dict/>
+										<key>string</key>
+										<string>routinehubid</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFTextTokenString</string>
+								</dict>
+								<key>WFValue</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>attachmentsByRange</key>
+										<dict/>
+										<key>string</key>
+										<string>6982</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFTextTokenString</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>WFItemType</key>
+								<integer>0</integer>
+								<key>WFKey</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>attachmentsByRange</key>
+										<dict/>
+										<key>string</key>
+										<string>version</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFTextTokenString</string>
+								</dict>
+								<key>WFValue</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>attachmentsByRange</key>
+										<dict/>
+										<key>string</key>
+										<string>1.2.1</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFTextTokenString</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>WFItemType</key>
+								<integer>1</integer>
+								<key>WFKey</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>attachmentsByRange</key>
+										<dict/>
+										<key>string</key>
+										<string>icons</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFTextTokenString</string>
+								</dict>
+								<key>WFValue</key>
+								<dict>
+									<key>Value</key>
+									<dict>
+										<key>Value</key>
+										<dict>
+											<key>WFDictionaryFieldValueItems</key>
+											<array>
+												<dict>
+													<key>WFItemType</key>
+													<integer>0</integer>
+													<key>WFKey</key>
+													<dict>
+														<key>Value</key>
+														<dict>
+															<key>attachmentsByRange</key>
+															<dict/>
+															<key>string</key>
+															<string>tick</string>
+														</dict>
+														<key>WFSerializationType</key>
+														<string>WFTextTokenString</string>
+													</dict>
+													<key>WFValue</key>
+													<dict>
+														<key>Value</key>
+														<dict>
+															<key>attachmentsByRange</key>
+															<dict/>
+															<key>string</key>
+															<string>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</string>
+														</dict>
+														<key>WFSerializationType</key>
+														<string>WFTextTokenString</string>
+													</dict>
+												</dict>
+												<dict>
+													<key>WFItemType</key>
+													<integer>0</integer>
+													<key>WFKey</key>
+													<dict>
+														<key>Value</key>
+														<dict>
+															<key>attachmentsByRange</key>
+															<dict/>
+															<key>string</key>
+															<string>cross</string>
+														</dict>
+														<key>WFSerializationType</key>
+														<string>WFTextTokenString</string>
+													</dict>
+													<key>WFValue</key>
+													<dict>
+														<key>Value</key>
+														<dict>
+															<key>attachmentsByRange</key>
+															<dict/>
+															<key>string</key>
+															<string>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</string>
+														</dict>
+														<key>WFSerializationType</key>
+														<string>WFTextTokenString</string>
+													</dict>
+												</dict>
+											</array>
+										</dict>
+										<key>WFSerializationType</key>
+										<string>WFDictionaryFieldValue</string>
+									</dict>
+									<key>WFSerializationType</key>
+									<string>WFDictionaryFieldValue</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFDictionaryFieldValue</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.downloadurl</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>LatestVersion</string>
+				<key>UUID</key>
+				<string>CF4A15BF-6D09-415D-A765-CECC346BDCDF</string>
+				<key>WFURL</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{39, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>routinehubid</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>https://routinehub.co/api/v1/shortcuts/￼/versions/latest</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>LatestVersion</string>
+				<key>UUID</key>
+				<string>9D6271EA-8B3A-4A1A-8455-07F7F6F1A987</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{0, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>CoercionItemClass</key>
+										<string>WFDictionaryContentItem</string>
+										<key>Type</key>
+										<string>WFCoercionVariableAggrandizement</string>
+									</dict>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>Version</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>LatestVersion</string>
+								<key>OutputUUID</key>
+								<string>CF4A15BF-6D09-415D-A765-CECC346BDCDF</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>￼</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>2CBC0E1D-07DE-44E1-AC24-050984DB3C50</string>
+				<key>WFCondition</key>
+				<integer>5</integer>
+				<key>WFConditionalActionString</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{0, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>version</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>￼</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>OutputName</key>
+							<string>LatestVersion</string>
+							<key>OutputUUID</key>
+							<string>9D6271EA-8B3A-4A1A-8455-07F7F6F1A987</string>
+							<key>Type</key>
+							<string>ActionOutput</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>183F2108-1E0F-4C00-88D9-4A2C3745A404</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{1008, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>version</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Dictionary</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+							<key>{1012, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>LatestVersion</string>
+								<key>OutputUUID</key>
+								<string>9D6271EA-8B3A-4A1A-8455-07F7F6F1A987</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;style&gt;
+.gradient-blue {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange {
+  background: linear-gradient(90deg, #fc4a1a, #f7b733);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-green {
+  background: linear-gradient(90deg, #11998e, #38ef7d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+  color: #222;
+  background: #fff;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+    &lt;/style&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;title&gt;An update is available.&lt;/title&gt;
+    &lt;link href="style.css" rel="stylesheet" type="text/css" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;An update is available. (￼ » ￼)&lt;/h1&gt;
+    &lt;p class="gradient-green"&gt;An update for &lt;b&gt;Discord Embed JSON Generator&lt;/b&gt; is available! &lt;a href="https://routinehub.co/shortcut/6982/" class="gradient-blue"&gt;&lt;b&gt;&lt;u&gt;Click here&lt;/u&gt;&lt;/b&gt;&lt;/a&gt; to download the new version of the shortcut. You can always skip the update by clicking &lt;b&gt;Done/OK&lt;/b&gt; on the top of this window.
+&lt;/p&gt;
+    &lt;h2&gt;How to update&lt;/h2&gt;
+    &lt;p class="gradient-orange"&gt;To update simply &lt;a href="https://routinehub.co/shortcut/6982/" class="gradient-blue"&gt;&lt;b&gt;&lt;u&gt;download the new version&lt;/u&gt;&lt;/b&gt;&lt;/a&gt; from RoutineHub. Then install it normally. A box will pop-up, you have to click &lt;b&gt;Replace&lt;/b&gt; to replace the old version with the new version or you can click &lt;b&gt;Keep Both&lt;/b&gt; to keep both versions.&lt;/p&gt;
+  &lt;img alt="" src="https://media.discordapp.net/attachments/743171770647052319/765246306474000434/image0.png" width="240" height="247"&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.getrichtextfromhtml</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>34A72781-2BDD-4FB5-862E-87262E6364BF</string>
+				<key>WFHTML</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Text</string>
+						<key>OutputUUID</key>
+						<string>183F2108-1E0F-4C00-88D9-4A2C3745A404</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.previewdocument</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Rich Text from HTML</string>
+						<key>OutputUUID</key>
+						<string>34A72781-2BDD-4FB5-862E-87262E6364BF</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>4CB72D7F-BA95-4F1D-A60F-8BC079383629</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{162, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.cross</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+							<key>{65, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.tick</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Yes;;;;
+PHOTO;ENCODING=b:￼
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:No;;;;
+ORG;CHARSET=utf-8:;
+PHOTO;ENCODING=b:￼
+END:VCARD
+</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.setitemname</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>2FCCDDB6-EC77-4045-9EB9-AC8A61F6A584</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Text</string>
+						<key>OutputUUID</key>
+						<string>4CB72D7F-BA95-4F1D-A60F-8BC079383629</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+				<key>WFName</key>
+				<string>leave.vcf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.choosefromlist</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>228D1D9E-8F9A-4DBE-8F9B-86D528EB47C6</string>
+				<key>WFChooseFromListActionPrompt</key>
+				<string>Leave Shortcut?</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>Aggrandizements</key>
+						<array>
+							<dict>
+								<key>CoercionItemClass</key>
+								<string>WFContactContentItem</string>
+								<key>Type</key>
+								<string>WFCoercionVariableAggrandizement</string>
+							</dict>
+						</array>
+						<key>OutputName</key>
+						<string>Renamed Item</string>
+						<key>OutputUUID</key>
+						<string>2FCCDDB6-EC77-4045-9EB9-AC8A61F6A584</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>BDA44B5A-3CF7-405E-BCD7-834D05023EDF</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<string>Yes</string>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Aggrandizements</key>
+							<array>
+								<dict>
+									<key>PropertyName</key>
+									<string>Name</string>
+									<key>PropertyUserInfo</key>
+									<string>WFItemName</string>
+									<key>Type</key>
+									<string>WFPropertyVariableAggrandizement</string>
+								</dict>
+							</array>
+							<key>OutputName</key>
+							<string>Chosen Item</string>
+							<key>OutputUUID</key>
+							<string>228D1D9E-8F9A-4DBE-8F9B-86D528EB47C6</string>
+							<key>Type</key>
+							<string>ActionOutput</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.exit</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFResult</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Chosen Item</string>
+						<key>OutputUUID</key>
+						<string>228D1D9E-8F9A-4DBE-8F9B-86D528EB47C6</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>BDA44B5A-3CF7-405E-BCD7-834D05023EDF</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.nothing</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>BDA44B5A-3CF7-405E-BCD7-834D05023EDF</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>2CBC0E1D-07DE-44E1-AC24-050984DB3C50</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.nothing</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>2CBC0E1D-07DE-44E1-AC24-050984DB3C50</string>
+				<key>UUID</key>
+				<string>B0C06D11-1EA0-49B3-A769-5FB9D2964F74</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.alert</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFAlertActionMessage</key>
+				<string>--------------             
+                                        
+Welcome to 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗘𝗺𝗯𝗲𝗱 𝗝𝗦𝗢𝗡 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿.
+In this shortcut you can generate JSON's of Discord Embeds.
+                                        
+                                        Click "OK" to start.</string>
+				<key>WFAlertActionTitle</key>
+				<string>𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗘𝗺𝗯𝗲𝗱 𝗝𝗦𝗢𝗡 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.ask</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Title</string>
+				<key>UUID</key>
+				<string>77E64FE9-618C-409F-B90B-E8C7AE57E107</string>
+				<key>WFAskActionPrompt</key>
+				<string>🇹Title</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.ask</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Description</string>
+				<key>UUID</key>
+				<string>F764E5FF-9622-46EB-8523-1843C8C5D234</string>
+				<key>WFAskActionPrompt</key>
+				<string>📄 Description/Text</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Main JSON (P. 1)</string>
+				<key>UUID</key>
+				<string>4971353C-67A4-4B62-A34B-58F222190FA6</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{38, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Title</string>
+								<key>OutputUUID</key>
+								<string>77E64FE9-618C-409F-B90B-E8C7AE57E107</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+							<key>{64, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Description</string>
+								<key>OutputUUID</key>
+								<string>F764E5FF-9622-46EB-8523-1843C8C5D234</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>{
+  "embeds": [
+    {
+      "title": "￼",
+      "description": "￼",</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Main JSON (P. 2)</string>
+				<key>UUID</key>
+				<string>03C939B5-0688-4536-966D-5E66E85B8E75</string>
+				<key>WFTextActionText</key>
+				<string>    }
+  ]
+}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>10B57602-3254-4094-83C2-01149BB27FF6</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{162, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.cross</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+							<key>{65, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.tick</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Yes;;;;
+PHOTO;ENCODING=b:￼
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:No;;;;
+ORG;CHARSET=utf-8:;
+PHOTO;ENCODING=b:￼
+END:VCARD
+</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.setitemname</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>5A14EC84-D92B-4E15-9FBA-0D08163CE52B</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>10B57602-3254-4094-83C2-01149BB27FF6</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+				<key>WFName</key>
+				<string>author.vcf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.choosefromlist</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>63CBAF0E-B9A7-441F-8826-A9766ADE5F53</string>
+				<key>WFChooseFromListActionPrompt</key>
+				<string>Do you want to add an author?</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>Aggrandizements</key>
+						<array>
+							<dict>
+								<key>CoercionItemClass</key>
+								<string>WFContactContentItem</string>
+								<key>Type</key>
+								<string>WFCoercionVariableAggrandizement</string>
+							</dict>
+						</array>
+						<key>OutputName</key>
+						<string>Ítem renombrado</string>
+						<key>OutputUUID</key>
+						<string>5A14EC84-D92B-4E15-9FBA-0D08163CE52B</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>E25F14D6-68EB-46C2-816A-F9FB2D61B8D6</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<string>Yes</string>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Aggrandizements</key>
+							<array>
+								<dict>
+									<key>PropertyName</key>
+									<string>Name</string>
+									<key>PropertyUserInfo</key>
+									<string>WFItemName</string>
+									<key>Type</key>
+									<string>WFPropertyVariableAggrandizement</string>
+								</dict>
+							</array>
+							<key>OutputName</key>
+							<string>Ítem seleccionado</string>
+							<key>OutputUUID</key>
+							<string>63CBAF0E-B9A7-441F-8826-A9766ADE5F53</string>
+							<key>Type</key>
+							<string>ActionOutput</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.ask</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Author</string>
+				<key>UUID</key>
+				<string>B0E13A91-0759-4AA4-BEBF-CD875AA693FB</string>
+				<key>WFAskActionPrompt</key>
+				<string>👤 Author</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Author JSON</string>
+				<key>UUID</key>
+				<string>FB70635C-AC70-4491-9017-5740449AE5CA</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{35, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Author</string>
+								<key>OutputUUID</key>
+								<string>B0E13A91-0759-4AA4-BEBF-CD875AA693FB</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>      "author": {
+        "name": "￼"
+      }</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.text.combine</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>Show-text</key>
+				<true/>
+				<key>UUID</key>
+				<string>48B2CFA2-83F0-4476-8DA0-2F7F33B14E90</string>
+				<key>WFTextSeparator</key>
+				<string>New Lines</string>
+				<key>text</key>
+				<array>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 1)</string>
+									<key>OutputUUID</key>
+									<string>4971353C-67A4-4B62-A34B-58F222190FA6</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Author JSON</string>
+									<key>OutputUUID</key>
+									<string>FB70635C-AC70-4491-9017-5740449AE5CA</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 2)</string>
+									<key>OutputUUID</key>
+									<string>03C939B5-0688-4536-966D-5E66E85B8E75</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>D78160DE-F31D-45CA-ACFA-A87F581C7ADA</string>
+				<key>WFTextActionText</key>
+				<string>Author</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.appendvariable</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>D78160DE-F31D-45CA-ACFA-A87F581C7ADA</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+				<key>WFVariableName</key>
+				<string>AuthorOrFooter</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>E25F14D6-68EB-46C2-816A-F9FB2D61B8D6</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.nothing</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>E25F14D6-68EB-46C2-816A-F9FB2D61B8D6</string>
+				<key>UUID</key>
+				<string>85A6115C-C573-4B7B-991D-A321A0048619</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>65DA8074-E9BE-4B98-9690-E476E0EBDFF9</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{162, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.cross</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+							<key>{65, 1}</key>
+							<dict>
+								<key>Aggrandizements</key>
+								<array>
+									<dict>
+										<key>DictionaryKey</key>
+										<string>icons.tick</string>
+										<key>Type</key>
+										<string>WFDictionaryValueVariableAggrandizement</string>
+									</dict>
+								</array>
+								<key>OutputName</key>
+								<string>Diccionario</string>
+								<key>OutputUUID</key>
+								<string>DF19FCC9-D7C8-41A0-A365-33402C9E3FD5</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Yes;;;;
+PHOTO;ENCODING=b:￼
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:No;;;;
+ORG;CHARSET=utf-8:;
+PHOTO;ENCODING=b:￼
+END:VCARD
+</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.setitemname</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>475ACBE5-0A49-4404-8748-223B56972CF9</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>65DA8074-E9BE-4B98-9690-E476E0EBDFF9</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+				<key>WFName</key>
+				<string>footer.vcf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.choosefromlist</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>A7A586C7-AF6C-469F-9899-325F298374AB</string>
+				<key>WFChooseFromListActionPrompt</key>
+				<string>Do you want to add a footer?</string>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>Aggrandizements</key>
+						<array>
+							<dict>
+								<key>CoercionItemClass</key>
+								<string>WFContactContentItem</string>
+								<key>Type</key>
+								<string>WFCoercionVariableAggrandizement</string>
+							</dict>
+						</array>
+						<key>OutputName</key>
+						<string>Ítem renombrado</string>
+						<key>OutputUUID</key>
+						<string>475ACBE5-0A49-4404-8748-223B56972CF9</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>AC24E051-35C5-4771-833B-F2A6D0DAD1DA</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<string>Yes</string>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Aggrandizements</key>
+							<array>
+								<dict>
+									<key>PropertyName</key>
+									<string>Name</string>
+									<key>PropertyUserInfo</key>
+									<string>WFItemName</string>
+									<key>Type</key>
+									<string>WFPropertyVariableAggrandizement</string>
+								</dict>
+							</array>
+							<key>OutputName</key>
+							<string>Ítem seleccionado</string>
+							<key>OutputUUID</key>
+							<string>A7A586C7-AF6C-469F-9899-325F298374AB</string>
+							<key>Type</key>
+							<string>ActionOutput</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.ask</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Footer</string>
+				<key>UUID</key>
+				<string>EDEBFE49-7DB3-4CDE-89F7-05E753253389</string>
+				<key>WFAskActionPrompt</key>
+				<string>⬇️ Footer</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Footer JSON</string>
+				<key>UUID</key>
+				<string>C157ADDB-FC90-4511-8FF9-7D62BA44A5B5</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{35, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Footer</string>
+								<key>OutputUUID</key>
+								<string>EDEBFE49-7DB3-4CDE-89F7-05E753253389</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>      "footer": {
+        "text": "￼"
+      }</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.text.combine</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>Show-text</key>
+				<true/>
+				<key>UUID</key>
+				<string>F0E3BCC3-0F6C-4504-AF5A-9F674D976E7E</string>
+				<key>text</key>
+				<array>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 1)</string>
+									<key>OutputUUID</key>
+									<string>4971353C-67A4-4B62-A34B-58F222190FA6</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Footer JSON</string>
+									<key>OutputUUID</key>
+									<string>C157ADDB-FC90-4511-8FF9-7D62BA44A5B5</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 2)</string>
+									<key>OutputUUID</key>
+									<string>03C939B5-0688-4536-966D-5E66E85B8E75</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>5014CD51-CA94-4ECF-B151-EAF3C3388350</string>
+				<key>WFTextActionText</key>
+				<string>Footer</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.appendvariable</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>5014CD51-CA94-4ECF-B151-EAF3C3388350</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+				<key>WFVariableName</key>
+				<string>AuthorOrFooter</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>AC24E051-35C5-4771-833B-F2A6D0DAD1DA</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.nothing</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>AC24E051-35C5-4771-833B-F2A6D0DAD1DA</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.comment</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFCommentActionText</key>
+				<string>JSON is generated.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>0C3CD1DE-3C86-42FF-A73D-F7FD52025CC5</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<string>Author</string>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Type</key>
+							<string>Variable</string>
+							<key>VariableName</key>
+							<string>AuthorOrFooter</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>A9399829-4E0B-4C4D-9AD0-258DA259DF5D</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{953, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Texto combinado</string>
+								<key>OutputUUID</key>
+								<string>48B2CFA2-83F0-4476-8DA0-2F7F33B14E90</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;style&gt;
+.gradient-blue {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange {
+  background: linear-gradient(90deg, #fc4a1a, #f7b733);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+  color: #222;
+  background: #fff;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+    &lt;/style&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;title&gt;JSON Generated!&lt;/title&gt;
+    &lt;link href="style.css" rel="stylesheet" type="text/css" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1 class="sansserif"&gt;JSON Generated!&lt;/h1&gt;
+    &lt;p class="gradient-orange"&gt;JSON code was correctly generated.&amp;nbsp;&lt;/p&gt;
+    &lt;p&gt;&lt;code&gt;￼&lt;/code&gt;&lt;/p&gt;
+    &lt;h2 class="sansserif"&gt;How to use&lt;/h2&gt;
+    &lt;p class="gradient-blue"&gt;Make a JSON POST request to your discord&amp;rsquo;s webhook url, then, you sould be done! The embed is sent!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.getrichtextfromhtml</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>BC6056A3-AF87-45E3-A0BE-B21E5A8D0D72</string>
+				<key>WFHTML</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>A9399829-4E0B-4C4D-9AD0-258DA259DF5D</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.previewdocument</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>De HTML a RTF</string>
+						<key>OutputUUID</key>
+						<string>BC6056A3-AF87-45E3-A0BE-B21E5A8D0D72</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>0C3CD1DE-3C86-42FF-A73D-F7FD52025CC5</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>5256D5DA-96E1-4627-9EEF-0739717A409B</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<string>Footer</string>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Type</key>
+							<string>Variable</string>
+							<key>VariableName</key>
+							<string>AuthorOrFooter</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>FF0422C5-15C6-40DC-93C8-4D98A5D3B1BA</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{953, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Texto combinado</string>
+								<key>OutputUUID</key>
+								<string>F0E3BCC3-0F6C-4504-AF5A-9F674D976E7E</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;style&gt;
+.gradient-blue {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange {
+  background: linear-gradient(90deg, #fc4a1a, #f7b733);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+  color: #222;
+  background: #fff;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+    &lt;/style&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;title&gt;JSON Generated!&lt;/title&gt;
+    &lt;link href="style.css" rel="stylesheet" type="text/css" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1 class="sansserif"&gt;JSON Generated!&lt;/h1&gt;
+    &lt;p class="gradient-orange"&gt;JSON code was correctly generated.&amp;nbsp;&lt;/p&gt;
+    &lt;p&gt;&lt;code&gt;￼&lt;/code&gt;&lt;/p&gt;
+    &lt;h2 class="sansserif"&gt;How to use&lt;/h2&gt;
+    &lt;p class="gradient-blue"&gt;Make a JSON POST request to your discord&amp;rsquo;s webhook url, then, you sould be done! The embed is sent!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.getrichtextfromhtml</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>92B51F2C-AA55-4C3E-8FF7-F7587586C8DF</string>
+				<key>WFHTML</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>FF0422C5-15C6-40DC-93C8-4D98A5D3B1BA</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.previewdocument</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>De HTML a RTF</string>
+						<key>OutputUUID</key>
+						<string>92B51F2C-AA55-4C3E-8FF7-F7587586C8DF</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>5256D5DA-96E1-4627-9EEF-0739717A409B</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>BB902DDC-7550-4456-B3D2-48E218D7D17B</string>
+				<key>WFTextActionText</key>
+				<string>Author
+Footer</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>4B92654D-0705-4EFD-80DF-889966C04BA2</string>
+				<key>WFCondition</key>
+				<integer>4</integer>
+				<key>WFConditionalActionString</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{0, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Texto</string>
+								<key>OutputUUID</key>
+								<string>BB902DDC-7550-4456-B3D2-48E218D7D17B</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>￼</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+				<key>WFControlFlowMode</key>
+				<integer>0</integer>
+				<key>WFInput</key>
+				<dict>
+					<key>Type</key>
+					<string>Variable</string>
+					<key>Variable</key>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>Type</key>
+							<string>Variable</string>
+							<key>VariableName</key>
+							<string>AuthorOrFooter</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenAttachment</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>CustomOutputName</key>
+				<string>Author JSON (2)</string>
+				<key>UUID</key>
+				<string>E2F37A8A-037F-4194-A2F8-8BE7E12C8987</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{35, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Author</string>
+								<key>OutputUUID</key>
+								<string>B0E13A91-0759-4AA4-BEBF-CD875AA693FB</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>      "author": {
+        "name": "￼"
+      },</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.text.combine</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>Show-text</key>
+				<true/>
+				<key>UUID</key>
+				<string>2B0A14BB-8ED4-491D-AB3D-7E1812C82899</string>
+				<key>text</key>
+				<array>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 1)</string>
+									<key>OutputUUID</key>
+									<string>4971353C-67A4-4B62-A34B-58F222190FA6</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Author JSON (2)</string>
+									<key>OutputUUID</key>
+									<string>E2F37A8A-037F-4194-A2F8-8BE7E12C8987</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Footer JSON</string>
+									<key>OutputUUID</key>
+									<string>C157ADDB-FC90-4511-8FF9-7D62BA44A5B5</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 2)</string>
+									<key>OutputUUID</key>
+									<string>03C939B5-0688-4536-966D-5E66E85B8E75</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>D0D87502-9B25-4BA2-9BEF-36FC3AAA3746</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{953, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Texto combinado</string>
+								<key>OutputUUID</key>
+								<string>2B0A14BB-8ED4-491D-AB3D-7E1812C82899</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;style&gt;
+.gradient-blue {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange {
+  background: linear-gradient(90deg, #fc4a1a, #f7b733);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+  color: #222;
+  background: #fff;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+    &lt;/style&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;title&gt;JSON Generated!&lt;/title&gt;
+    &lt;link href="style.css" rel="stylesheet" type="text/css" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1 class="sansserif"&gt;JSON Generated!&lt;/h1&gt;
+    &lt;p class="gradient-orange"&gt;JSON code was correctly generated.&amp;nbsp;&lt;/p&gt;
+    &lt;p&gt;&lt;code&gt;￼&lt;/code&gt;&lt;/p&gt;
+    &lt;h2 class="sansserif"&gt;How to use&lt;/h2&gt;
+    &lt;p class="gradient-blue"&gt;Make a JSON POST request to your discord&amp;rsquo;s webhook url, then, you sould be done! The embed is sent!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.getrichtextfromhtml</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>F2776454-9882-45CD-8A02-4FFF5D5BFD2A</string>
+				<key>WFHTML</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>D0D87502-9B25-4BA2-9BEF-36FC3AAA3746</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.previewdocument</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>De HTML a RTF</string>
+						<key>OutputUUID</key>
+						<string>F2776454-9882-45CD-8A02-4FFF5D5BFD2A</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>4B92654D-0705-4EFD-80DF-889966C04BA2</string>
+				<key>WFControlFlowMode</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.text.combine</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>Show-text</key>
+				<true/>
+				<key>UUID</key>
+				<string>520E76EF-D858-41F3-A852-B7D200831EFF</string>
+				<key>text</key>
+				<array>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 1)</string>
+									<key>OutputUUID</key>
+									<string>4971353C-67A4-4B62-A34B-58F222190FA6</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+					<dict>
+						<key>Value</key>
+						<dict>
+							<key>attachmentsByRange</key>
+							<dict>
+								<key>{0, 1}</key>
+								<dict>
+									<key>OutputName</key>
+									<string>Main JSON (P. 2)</string>
+									<key>OutputUUID</key>
+									<string>03C939B5-0688-4536-966D-5E66E85B8E75</string>
+									<key>Type</key>
+									<string>ActionOutput</string>
+								</dict>
+							</dict>
+							<key>string</key>
+							<string>￼</string>
+						</dict>
+						<key>WFSerializationType</key>
+						<string>WFTextTokenString</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.gettext</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>19244794-5897-43E8-B001-32FE2F2898E5</string>
+				<key>WFTextActionText</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>attachmentsByRange</key>
+						<dict>
+							<key>{953, 1}</key>
+							<dict>
+								<key>OutputName</key>
+								<string>Texto combinado</string>
+								<key>OutputUUID</key>
+								<string>520E76EF-D858-41F3-A852-B7D200831EFF</string>
+								<key>Type</key>
+								<string>ActionOutput</string>
+							</dict>
+						</dict>
+						<key>string</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;style&gt;
+.gradient-blue {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange {
+  background: linear-gradient(90deg, #fc4a1a, #f7b733);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+  color: #222;
+  background: #fff;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+    &lt;/style&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;title&gt;JSON Generated!&lt;/title&gt;
+    &lt;link href="style.css" rel="stylesheet" type="text/css" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1 class="sansserif"&gt;JSON Generated!&lt;/h1&gt;
+    &lt;p class="gradient-orange"&gt;JSON code was correctly generated.&amp;nbsp;&lt;/p&gt;
+    &lt;p&gt;&lt;code&gt;￼&lt;/code&gt;&lt;/p&gt;
+    &lt;h2 class="sansserif"&gt;How to use&lt;/h2&gt;
+    &lt;p class="gradient-blue"&gt;Make a JSON POST request to your discord&amp;rsquo;s webhook url, then, you sould be done! The embed is sent!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenString</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.getrichtextfromhtml</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>UUID</key>
+				<string>BE9F7835-17CD-459C-99C1-4ED6EE7045F4</string>
+				<key>WFHTML</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>Texto</string>
+						<key>OutputUUID</key>
+						<string>19244794-5897-43E8-B001-32FE2F2898E5</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.previewdocument</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>WFInput</key>
+				<dict>
+					<key>Value</key>
+					<dict>
+						<key>OutputName</key>
+						<string>De HTML a RTF</string>
+						<key>OutputUUID</key>
+						<string>BE9F7835-17CD-459C-99C1-4ED6EE7045F4</string>
+						<key>Type</key>
+						<string>ActionOutput</string>
+					</dict>
+					<key>WFSerializationType</key>
+					<string>WFTextTokenAttachment</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>4B92654D-0705-4EFD-80DF-889966C04BA2</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>5256D5DA-96E1-4627-9EEF-0739717A409B</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>WFWorkflowActionIdentifier</key>
+			<string>is.workflow.actions.conditional</string>
+			<key>WFWorkflowActionParameters</key>
+			<dict>
+				<key>GroupingIdentifier</key>
+				<string>0C3CD1DE-3C86-42FF-A73D-F7FD52025CC5</string>
+				<key>UUID</key>
+				<string>47E71678-78E6-438D-AE27-B635273C63CB</string>
+				<key>WFControlFlowMode</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>WFWorkflowClientVersion</key>
+	<string>1091.5.1</string>
+	<key>WFWorkflowIcon</key>
+	<dict>
+		<key>WFWorkflowIconGlyphNumber</key>
+		<integer>59749</integer>
+		<key>WFWorkflowIconStartColor</key>
+		<integer>3679049983</integer>
+	</dict>
+	<key>WFWorkflowImportQuestions</key>
+	<array/>
+	<key>WFWorkflowInputContentItemClasses</key>
+	<array>
+		<string>WFAppStoreAppContentItem</string>
+		<string>WFArticleContentItem</string>
+		<string>WFContactContentItem</string>
+		<string>WFDateContentItem</string>
+		<string>WFEmailAddressContentItem</string>
+		<string>WFGenericFileContentItem</string>
+		<string>WFImageContentItem</string>
+		<string>WFiTunesProductContentItem</string>
+		<string>WFLocationContentItem</string>
+		<string>WFDCMapsLinkContentItem</string>
+		<string>WFAVAssetContentItem</string>
+		<string>WFPDFContentItem</string>
+		<string>WFPhoneNumberContentItem</string>
+		<string>WFRichTextContentItem</string>
+		<string>WFSafariWebPageContentItem</string>
+		<string>WFStringContentItem</string>
+		<string>WFURLContentItem</string>
+	</array>
+	<key>WFWorkflowMinimumClientVersion</key>
+	<integer>900</integer>
+	<key>WFWorkflowMinimumClientVersionString</key>
+	<string>900</string>
+	<key>WFWorkflowTypes</key>
+	<array/>
+</dict>
+</plist>
